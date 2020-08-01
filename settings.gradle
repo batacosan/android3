@@ -1,0 +1,2 @@
+rootProject.name='android3系test'
+include ':app'
